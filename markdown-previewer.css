@@ -1,0 +1,22 @@
+body {
+  background: #cecece;
+}
+
+textarea {
+  height:600px;
+  width:500px;
+  font-size: 14px;
+}
+
+td {
+  padding: 25px;
+  margin: 50px;
+  height:400px;
+  width:500px;
+  vertical-align: top;
+}
+
+table {
+  margin-left:auto;
+  margin-right:auto;
+}
